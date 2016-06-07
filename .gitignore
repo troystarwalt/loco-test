@@ -13,4 +13,4 @@
 /tmp
 
 # Ignore my deploy.yml.
-/yml
+/blah/config/deploy.yml
